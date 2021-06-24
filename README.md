@@ -40,6 +40,6 @@ See how it works
 
 Credit
 -----
-This project was inspired by zbGospb5BBA
+This project was inspired by
 https://github.com/dubravcik/pbixrefresher-python
 
