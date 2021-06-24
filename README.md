@@ -34,8 +34,8 @@ Change the default value set for the different fields:
 
 See how it works
 -----
-[![pbixrefresher](http://img.youtube.com/vi/zbGospb5BBA/0.jpg)](https://www.youtube.com/watch?v=zbGospb5BBA "pbixrefresher")
-https://youtu.be/zbGospb5BBA
+
+[![PowerBi_refresh & export_to_pdf](http://img.youtube.com/vi/zbGospb5BBA/0.jpg)](https://www.youtube.com/watch?v=zbGospb5BBA "PowerBi_refresh & export_to_pdf")
 
 
 Credit
