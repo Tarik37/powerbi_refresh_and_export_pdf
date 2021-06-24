@@ -34,12 +34,12 @@ Change the default value set for the different fields:
 
 See how it works
 -----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zbGospb5BBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![pbixrefresher](http://img.youtube.com/vi/zbGospb5BBA/0.jpg)](https://www.youtube.com/watch?v=zbGospb5BBA "pbixrefresher")
+https://youtu.be/zbGospb5BBA
 
 
 Credit
 -----
-This project was inspired by 
+This project was inspired by zbGospb5BBA
 https://github.com/dubravcik/pbixrefresher-python
 
