@@ -35,7 +35,7 @@ Change the default value set for the different fields:
 See how it works
 -----
 
-[![PowerBi refresh & export to pdf](http://img.youtube.com/vi/zbGospb5BBA.jpg)](https://youtu.be/zbGospb5BBA "PowerBi refresh & export to pdf")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zbGospb5BBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Credit
