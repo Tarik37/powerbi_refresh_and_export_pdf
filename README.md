@@ -36,7 +36,7 @@ See how it works
 -----
 
 [![PowerBi refresh & export to pdf](http://img.youtube.com/vi/zbGospb5BBA.jpg)](https://youtu.be/zbGospb5BBA "PowerBi refresh & export to pdf")
-https://www.youtube.com/watch?v=zbGospb5BBA
+
 
 Credit
 -----
